@@ -13,9 +13,9 @@
   ],
   "dependencies": {
     "debug": "*",
-    "engine.io": "0.4.3",
+    "engine.io": "git://github.com/LearnBoost/engine.io.git",
     "socket.io-parser": "1.0.2",
-    "socket.io-client": "LearnBoost/socket.io-client",
+    "socket.io-client": "git://github.com/zachaller/socket.io-client.git",
     "send": "~0.1.0"
   },
   "devDependencies": {
